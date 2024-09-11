@@ -1,0 +1,7 @@
+.metric__container{
+    display: flex;
+    justify-content: center;
+    height: 288px;
+    padding: 0 0 96px 0;
+    gap: 16px;
+}
