@@ -1,0 +1,26 @@
+.container__card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 0 32px;
+    width: 280px;
+}
+
+.metric {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--dark-red);
+}
+
+.subtitle {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--dark-teal);
+
+}
+
+.description {
+    font-size: 16px;
+    color: var(--gray);
+    font-weight: 400;
+}
