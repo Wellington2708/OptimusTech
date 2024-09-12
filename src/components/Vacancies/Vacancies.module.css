@@ -1,0 +1,30 @@
+.container__vacancies {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    gap: 20px;
+}
+
+.announcement {
+    color: var(--dark-red);
+    background-color: #8E24240D;
+    border-radius: 16px;
+    padding: 4px 12px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--dark-teal);
+}
+
+.subtitle {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--gray);
+
+}
