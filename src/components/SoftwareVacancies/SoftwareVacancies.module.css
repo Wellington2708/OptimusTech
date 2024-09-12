@@ -1,0 +1,36 @@
+.container__vacancies {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 40px;
+    border: 1px solid var(--light-gray);
+    padding: 24px 24px 28px 24px;
+    border-radius: 16px;
+}
+
+.container__details {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+
+.title {
+    width: 720px;
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--dark-teal);
+}
+
+.info__typeJob {
+    font-size: 16px;
+    color: var(--gray);
+    font-weight: 500;
+}
+
+.info__salary {
+    font-size: 16px;
+    color: var(--gray);
+    font-weight: 500;
+}
+
+

@@ -1,0 +1,18 @@
+.container__vacancies__software{
+    height: 358px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-top: 200px;
+}
+
+.title {
+    width: 768px;
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--dark-teal);
+
+}
