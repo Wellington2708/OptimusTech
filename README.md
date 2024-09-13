@@ -1,6 +1,7 @@
 # OptimusTech - Job Posting and Tech Support Website
 
-![OptimusTech Screenshot](../OptimusTech/src/assets/OptmusTech.png)
+![OptmusTech](https://github.com/user-attachments/assets/46352e1e-bd4d-4c5d-84f9-48fa49cc9a27)
+
 
 Check out the project website on Vercel  [OptimusTech](https://optimus-tech-rho.vercel.app/)
 
