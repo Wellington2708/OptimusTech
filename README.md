@@ -5,6 +5,9 @@
 
 Check out the project website on Vercel  [OptimusTech](https://optimus-tech-rho.vercel.app/)
 
+Figma project developed only for desktop.
+Later, I will make the version for Mobile.
+
 
 This is the repository for **OptimusTech**, a website focused on job postings and tech support, with an emphasis on open-source programs. The design was created in Figma, and the frontend is being developed using **React** with **Vite**. The Figma design was provided by the Alura programming school.
 
