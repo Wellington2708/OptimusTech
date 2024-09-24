@@ -6,6 +6,7 @@ import MetricList from './components/MetricList';
 import Vacancies from './components/Vacancies/index';
 import DesignArea from './components/DesignArea';
 import SoftwareDeveloperArea from './components/SoftwareDeveloperArea';
+import Comments from './components/Comments';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Vacancies />
       <DesignArea />
       <SoftwareDeveloperArea />
+      <Comments />
     </>
   )
 }
