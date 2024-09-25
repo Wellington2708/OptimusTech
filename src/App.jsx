@@ -7,6 +7,7 @@ import Vacancies from './components/Vacancies/index';
 import DesignArea from './components/DesignArea';
 import SoftwareDeveloperArea from './components/SoftwareDeveloperArea';
 import Comments from './components/Comments';
+import Form from './components/Form';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <DesignArea />
       <SoftwareDeveloperArea />
       <Comments />
+      <Form />
     </>
   )
 }
